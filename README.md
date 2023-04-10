@@ -1,3 +1,5 @@
+<a href="https://www.notion.so/34f6e877526d4ca6bdae246e95689f09"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a> <img src="https://img.shields.io/badge/seokjoon911@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://oamu412.tistory.com"><img src="https://img.shields.io/badge/https://oamu412.tistory.com-F7901E?style=flat-square&logo=Tistory&logoColor=white" /></a> 
+
 ### Hi there 👋
 
 <!--
