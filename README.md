@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+### 💻 Skills
+
+### 🛠 Tools 
+
 <!--
 **seokjoon911/seokjoon911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
